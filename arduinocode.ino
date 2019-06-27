@@ -1,13 +1,8 @@
 /********************************************************************
  *ChessRobotControl.ino Robot Control File                                   *
  *Witten by Nicholas Maselli                                        *
- *                                                                  *
- *Purpose: This program controls a chess robot by detecting piece   *
- *changes on the board using reed switches, control stepper motors, *
- *and relaying information to and from python.                      *                          
- *                                                                  *
- *Version: 1.0                                                      *
- *Date: June 30th, 2017                                              *
+ and modified for personal use for project in Wizards Chess   
+ this code has x y plotter with servo control 90 degree rotation*
  ********************************************************************/
 /*log  the z has been handleled 
  * others need to be done
